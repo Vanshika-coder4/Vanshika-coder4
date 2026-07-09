@@ -4,7 +4,7 @@
 
 ### 💻 Python Developer | Web Developer | Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Web+Developer;REST+API+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Web+Developer;REST+API+Developer;Flask+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things!" />
 
 <br>
 
@@ -251,7 +251,6 @@ Customer Relationship Management System.
 - 🗄️ MySQL
 - ☁️ Git & GitHub
 
----
 ---
 
 <div align="center">
