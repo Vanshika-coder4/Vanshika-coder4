@@ -274,6 +274,6 @@ Customer Relationship Management System.
 
 ### ⭐ Thank you for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 </div>
