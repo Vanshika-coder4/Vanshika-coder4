@@ -1,60 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vanshika Kalyani</h1>
-<h3 align="center">💻 Python Developer | Web Developer | Aspiring Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Vanshika-coder4">
-    <img src="https://komarev.com/ghpvc/?username=Vanshika-coder4&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+# 👋 Hi, I'm **Vanshika Kalyani**
 
-  <a href="https://github.com/Vanshika-coder4?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vanshika-coder4?label=Followers&style=social"/>
-  </a>
+### 💻 Python Developer | Web Developer | Aspiring Full Stack Developer
 
-  <a href="https://github.com/Vanshika-coder4">
-    <img src="https://img.shields.io/github/stars/Vanshika-coder4?affiliations=OWNER&style=social"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Web+Developer;Flask+Developer;REST+API+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things!" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/vanshika-kalyani-8a8a7b31b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kalyanivanshika04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vanshika-coder4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Vanshika-coder4&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
 # 💫 About Me
 
-💻 Passionate Python Developer with an interest in creating efficient, scalable, and user-friendly applications.
+💻 Passionate **Python Developer** focused on building scalable, efficient, and user-friendly applications.
 
-🌱 Currently learning Full Stack Web Development and Backend Technologies.
+🚀 Building **REST APIs** and backend applications using **Python** and **Flask**.
 
-🚀 Love building REST APIs, Flask Applications, Data Analysis Projects, and Python-based Automation.
+📊 Interested in **Data Analysis**, **Automation**, and solving real-world problems.
 
-📊 Interested in Data Science, Software Development, and Problem Solving.
+🌱 Currently learning **Full Stack Web Development** and modern backend technologies.
 
-🎯 Aspiring Software Engineer committed to continuous learning and innovation.
+🎯 Aspiring **Software Engineer** passionate about developing impactful software solutions.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### 👨‍💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,flask,mysql,git,github,vscode,postman"/>
 
-### ⚙️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -62,23 +55,10 @@
 # 🎯 Current Focus
 
 - 🚀 Building REST APIs
+- 🐍 Improving Python Skills
 - 🌐 Learning Full Stack Development
-- 🐍 Advanced Python Programming
-- 📊 Data Analysis & Visualization
-- ⚙ Backend Development
-- 🗄 Database Management
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanshika-coder4&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-coder4&layout=compact&theme=tokyonight"/>
-
-</p>
+- 📊 Exploring Data Analysis
+- 🗄️ Working with MySQL Databases
 
 ---
 
@@ -86,7 +66,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vanshika-coder4&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Vanshika-coder4&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-coder4&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshika-coder4&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -106,150 +86,149 @@
 
 ## 📝 Task Management REST API
 
-RESTful backend application developed using Python for efficient task management.
+RESTful backend application developed using **Python** for efficient task management.
 
-### Features
+**Features**
 
-- CRUD Operations
-- REST API
-- JSON Responses
-- Clean Architecture
-- Backend Development
+- ✅ CRUD Operations
+- 🔗 REST API
+- 📦 JSON Responses
+- ⚡ Flask Backend
+- 📁 Clean Project Structure
 
 ---
 
 ## ✍️ Personal Blog with Flask
 
-A blogging platform built using Flask.
+A blogging platform developed using **Flask**.
 
-### Features
+**Features**
 
-- User-Friendly Interface
-- Dynamic Routing
-- Flask Templates
-- Blog Management
-- Responsive Design
+- 📝 Blog Management
+- 🔐 Dynamic Routing
+- 📄 Flask Templates
+- 📱 Responsive Design
+- ⚡ Simple & Clean UI
 
 ---
 
 ## 📊 Sales Data Analysis
 
-Python project focused on extracting meaningful insights from sales datasets.
+Python project focused on extracting meaningful business insights.
 
-### Features
+**Features**
 
-- Data Cleaning
-- Data Visualization
-- Business Reports
-- Charts & Graphs
-- Insight Generation
+- 📈 Data Cleaning
+- 📊 Data Visualization
+- 📑 Business Reports
+- 📉 Charts & Graphs
+- 📋 Insight Generation
 
 ---
 
 ## 👩‍💼 NexusHR
 
-Enterprise HR Management Platform with Workforce Intelligence.
+HR Management Platform for workforce management.
 
-### Features
+**Features**
 
-- Employee Records
-- HR Dashboard
-- Workforce Management
-- Responsive UI
-- Smart Analytics
+- 👨‍💼 Employee Records
+- 📊 HR Dashboard
+- 📈 Workforce Analytics
+- 🗂️ Data Management
+- 💻 Responsive Interface
 
 ---
 
-## 🌦 Weather Dashboard Application
+## 🌦️ Weather Dashboard Application
 
 Weather application using APIs.
 
-### Features
+**Features**
 
-- Live Weather Updates
-- City Search
-- Temperature Details
-- Weather Conditions
-- Responsive Interface
+- 🌍 Live Weather
+- 🔍 City Search
+- 🌡️ Temperature Details
+- ☁️ Weather Conditions
+- 📱 Responsive Design
 
 ---
 
 ## 📚 Library Management System
 
-Python-based library management application.
+Python application for managing library records.
 
-### Features
+**Features**
 
-- Book Management
-- Student Records
-- Issue & Return
-- Search Books
-- Easy Navigation
+- 📖 Book Management
+- 👨‍🎓 Student Records
+- 🔄 Issue & Return
+- 🔍 Search Functionality
 
 ---
 
 ## 💰 Finance Tracker
 
-Application for tracking personal finances.
+Personal finance management application.
 
-### Features
+**Features**
 
-- Income Management
-- Expense Tracking
-- Budget Monitoring
-- Financial Reports
+- 💵 Expense Tracking
+- 📈 Income Records
+- 💳 Budget Management
+- 📊 Reports
 
 ---
 
 ## 📇 Contact Management System
 
-Python application for organizing contacts.
+Python-based contact organizer.
 
-### Features
+**Features**
 
-- Add Contacts
-- Update Contacts
-- Delete Contacts
-- Search Contacts
+- ➕ Add Contacts
+- ✏️ Update Contacts
+- ❌ Delete Contacts
+- 🔍 Search Contacts
 
 ---
 
 ## 🎓 Grade Calculator
 
-Simple Python project for academic grading.
+Academic grade calculation system.
 
-### Features
+**Features**
 
-- GPA Calculator
-- Percentage Calculation
-- Grade Prediction
-- User-Friendly Interface
+- 📚 GPA Calculator
+- 📈 Percentage Calculator
+- 🎯 Grade Prediction
+- 💻 User-Friendly Interface
 
 ---
 
 ## 👤 Personal Information Manager
 
-Python application to securely store personal records.
+Application to securely manage personal records.
 
-### Features
+**Features**
 
-- Save Information
-- Edit Records
-- Delete Records
-- Search Information
+- 📝 Store Information
+- ✏️ Edit Records
+- 🗑️ Delete Records
+- 🔍 Search Information
 
 ---
 
 ## 🐧 OSS Audit
 
-Linux Shell scripting project.
+Linux Shell scripting project for system auditing.
 
-### Features
+**Features**
 
-- System Identity
-- Package Inspector
-- Log Analyzer
-- Disk Permission Auditor
+- 💻 System Identity
+- 📦 Package Inspector
+- 📂 Disk Permission Auditor
+- 📜 Log Analyzer
 
 ---
 
@@ -257,64 +236,45 @@ Linux Shell scripting project.
 
 Customer Relationship Management System.
 
-### Features
+**Features**
 
-- Customer Database
-- Dashboard
-- Record Management
-- Reports
+- 👥 Customer Records
+- 📊 Dashboard
+- 🗂️ Data Management
+- 📈 Reports
 
 ---
 
 # 📚 Currently Learning
 
-- 🌐 Full Stack Web Development
 - 🐍 Advanced Python
-- ⚙ Flask & REST APIs
-- 🗄 SQL & Databases
-- 📊 Data Analytics
-- ☁ Git & GitHub
+- 🌐 Full Stack Development
+- ⚙️ Flask & REST APIs
+- 🗄️ MySQL
+- ☁️ Git & GitHub
 
 ---
 
-# 🏆 Achievements
+## 🌐 Connect With Me
 
-- 🚀 Built multiple Python Projects
-- 📊 Developed Data Analysis Applications
-- 🌐 Created REST APIs using Flask
-- 💻 Active GitHub Contributor
-- 📚 Continuously Learning Modern Technologies
+<div align="center">
 
----
-
-# 📫 Connect With Me
-
-<p align="left">
+<a href="https://www.linkedin.com/in/vanshika-kalyani-8a8a7b31b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:kalyanivanshika04@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Vanshika-coder4">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vanshika-kalyani-8a8a7b31b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-📧 **Email:** kalyanivanshika04@gmail.com
-
-💻 **GitHub:** https://github.com/Vanshika-coder4
-
-💼 **LinkedIn:** https://www.linkedin.com/in/vanshika-kalyani-8a8a7b31b
+</div>
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my profile!</h3>
+### ⭐ Thank you for visiting my profile!
 
-<h2 align="center">
-✨ Learn • Code • Build • Grow 🚀
-</h2>
+*"Learn. Code. Build. Grow."* 🚀
