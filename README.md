@@ -4,7 +4,7 @@
 
 ### 💻 Python Developer | Web Developer | Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Web+Developer;Flask+Developer;REST+API+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Web+Developer;REST+API+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things!" />
 
 <br>
 
@@ -254,27 +254,28 @@ Customer Relationship Management System.
 - ☁️ Git & GitHub
 
 ---
-
-## 🌐 Connect With Me
+---
 
 <div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/vanshika-kalyani-8a8a7b31b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:kalyanivanshika04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Vanshika-coder4">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
+<br><br>
 
 ### ⭐ Thank you for visiting my profile!
 
-*"Learn. Code. Build. Grow."* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow+%F0%9F%9A%80" />
+
+</div>
